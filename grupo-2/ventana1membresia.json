@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "MEMBRESÍA",
+    "texto": null,
+    "boton": null
+  },
+  {
+    "titulo": "MEMBRESÍA",
+    "texto": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit ligula dictum hendrerit nisi dictumst, nulla tempus lacus tincidunt blandit",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit ligula dictum hendrerit nisi dictumst, nulla tempus lacus tincidunt blandit"
+    ],
+    "boton": {
+        "texto": "Afíliate con Nosotros",
+        "href": "#"
+      }
+  },
+  {
+    "titulo": "Beneficios",
+    "texto": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit ligula dictum hendrerit nisi dictumst, nulla tempus lacus tincidunt blandit",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit ligula dictum hendrerit nisi dictumst, nulla tempus lacus tincidunt blandit",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit ligula dictum hendrerit nisi dictumst, nulla tempus lacus tincidunt blandit"
+    ],
+    "boton": null
+  }
+]
