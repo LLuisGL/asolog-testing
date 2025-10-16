@@ -1,0 +1,28 @@
+[
+  {
+    "titulo": "Profesional",
+    "precio": 10,
+    "beneficios": [
+      "Lorem ipsum dolor sit",
+      "Lorem ipsum dolor sit",
+      "Lorem ipsum dolor sit"
+    ],
+    "boton": {
+      "texto": "Seleccionar",
+      "href": "#"
+    }
+  },
+  {
+    "titulo": "Empresarial",
+    "precio": 20,
+    "beneficios": [
+      "Lorem ipsum dolor sit",
+      "Lorem ipsum dolor sit",
+      "Lorem ipsum dolor sit"
+    ],
+    "boton": {
+      "texto": "Seleccionar",
+      "href": "#"
+    }
+  }
+]
