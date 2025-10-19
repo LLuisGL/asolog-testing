@@ -1,7 +1,8 @@
 {
-    "id": 1,
-    "nombre_empresa": "Company S.A.",
-    "descipcion": "Proident amet exercitation elit anim labore nisi nisi ipsum dolore ex.",
-    "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOwyajnXrb-kzCU52VGfZpy9CX0lBbvfCSg&s",
-    "sitio web": "https://www.example.com"
+    "id_empresa": 1,
+    "nombre_comercial": "Company S.A.",
+    "descripcion": "Proident amet exercitation elit anim labore nisi nisi ipsum dolore ex.",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOwyajnXrb-kzCU52VGfZpy9CX0lBbvfCSg&s",
+    "sitio web": "https://www.example.com",
+    "id_usuario": 4
 }
