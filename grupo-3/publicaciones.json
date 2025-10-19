@@ -1,0 +1,32 @@
+{
+  "fuente": "ASOLOG-demo",
+  "generadoEn": "2025-10-18T23:59:00Z",
+  "publicaciones": [
+    {
+      "id": "PUB-0001",
+      "titulo": "Optimización de rutas de carga",
+      "autor": { "id": "USR-101", "nombre": "María Paredes" },
+      "categoria": "Logística",
+      "fechaEnvio": "2025-10-10T15:30:00Z",
+      "estado": "EN_REVISION",
+      "resumen": "Propuesta para reducir tiempos de entrega en zona urbana.",
+      "palabrasClave": ["ruteo", "última milla", "kpi"],
+      "version": 2,
+      "vinculos": { "doc": null, "imagenes": [] },
+      "historial": [{ "tipo": "CREACION", "fecha": "2025-10-10T15:30:00Z", "por": "USR-101" }]
+    },
+    {
+      "id": "PUB-0002",
+      "titulo": "Buenas prácticas de seguridad en patios",
+      "autor": { "id": "USR-205", "nombre": "Carlos Aguirre" },
+      "categoria": "Seguridad",
+      "fechaEnvio": "2025-10-12T10:05:00Z",
+      "estado": "EN_REVISION",
+      "resumen": "Checklist operativo y señales críticas.",
+      "palabrasClave": ["seguridad", "señalética"],
+      "version": 1,
+      "vinculos": { "doc": null, "imagenes": [] },
+      "historial": [{ "tipo": "CREACION", "fecha": "2025-10-12T10:05:00Z", "por": "USR-205" }]
+    }
+  ]
+}
