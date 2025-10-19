@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Estandar",
+    "tipo": "empresa",
+    "precio": 49.9,
+    "estado": "activo",
+    "limite_publicaciones": 5,
+    "permiso_id": 101
+  },
+  {
+    "id": 2,
+    "nombre": "Corporativo",
+    "tipo": "empresa",
+    "precio": 199.0,
+    "estado": "activo",
+    "limite_publicaciones": 15,
+    "permiso_id": 102
+  }
+]

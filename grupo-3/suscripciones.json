@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5001,
+    "usuario_id": 1,
+    "plan_id": 2,
+    "descripcion": "Plan Corporativo (anual)",
+    "fecha_inicio": "2025-09-20T00:00:00Z",
+    "fecha_fin": "2026-09-20T00:00:00Z",
+    "precio": 199.0,
+    "estado": "activa",
+    "renovacion": false
+  },
+  {
+    "id": 5002,
+    "usuario_id": 2,
+    "plan_id": 1,
+    "descripcion": "Plan Estandar (trimestral)",
+    "fecha_inicio": "2025-06-01T00:00:00Z",
+    "fecha_fin": "2025-08-30T23:59:59Z",
+    "precio": 49.9,
+    "estado": "expirada",
+    "renovacion": false
+  },
+  {
+    "id": 5003,
+    "usuario_id": 3,
+    "plan_id": 1,
+    "descripcion": "Plan Estandar (trimestral)",
+    "fecha_inicio": "2025-07-01T00:00:00Z",
+    "fecha_fin": "2025-09-30T23:59:59Z",
+    "precio": 49.9,
+    "estado": "cancelada",
+    "renovacion": false
+  }
+]
