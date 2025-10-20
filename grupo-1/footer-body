@@ -5,7 +5,7 @@
     {"titulo":"Chicago", "href":"#"},
     {"titulo":"Florida", "href":"#"},
     {"titulo":"Los Angeles", "href":"#"},
-    {"titulo":"San Diego", "href":"#"},
+    {"titulo":"San Diego", "href":"#"}
   ],
   "quick_links":[
     {"titulo":"About", "href":"#"},
@@ -14,10 +14,10 @@
     {"titulo":"Blog", "href":"#"},
     {"titulo":"Pricing Plans", "href":"#"},
     {"titulo":"Privacy & Policy", "href":"#"},
-    {"titulo":"Terms & Conditions", "href":"#"},
+    {"titulo":"Terms & Conditions", "href":"#"}
   ]
   "contact_us":[
     {"titulo":"hi@justhome.com", "href":"#"},
-    {"titulo":"Miami", "(123)456-7890":"#"},
+    {"titulo":"(123)456-7890", "href":"#"}
   ]
 }
