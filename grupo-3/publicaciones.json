@@ -5,7 +5,7 @@
     {
       "id": "PUB-0001",
       "titulo": "Optimización de rutas de carga",
-      "autor": { "id": "USR-101", "nombre": "María Paredes" },
+      "autor": { "id": "1", "nombre": "María Paredes" },
       "categoria": "Logística",
       "fechaEnvio": "2025-10-10T15:30:00Z",
       "estado": "EN_REVISION",
