@@ -18,20 +18,20 @@
         "id_usuario": 13,
         "tipo": "recordatorio_vencimiento",
         "mensaje": "Tu suscripción está por vencer el 25 de octubre de 2025. Renueva a tiempo para no perder acceso a tus beneficios.",
-        "fechaCreacion": "2025-10-21T12:00:00Z"
+        "fecha_creacion": "2025-10-21T12:00:00Z"
     },
     {
         "id_notificacion": 4,
         "id_usuario": 14,
         "tipo": "suscripcion_vencida",
         "mensaje": "Tu suscripción ha vencido. Renueva ahora para continuar disfrutando de todo el contenido premium.",
-        "fechaCreacion": "2025-10-21T12:30:00Z"
+        "fecha_creacion": "2025-10-21T12:30:00Z"
     },
     {
         "id_notificacion": 5,
         "id_usuario": 15,
         "tipo": "suscripcion_renovada",
         "mensaje": "Tu suscripción ha sido renovada exitosamente. ¡Gracias por seguir con nosotros!",
-        "fechaCreacion": "2025-10-21T12:45:00Z"
+        "fecha_creacion": "2025-10-21T12:45:00Z"
     }
 ]
