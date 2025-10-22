@@ -1,23 +1,25 @@
-{
-  "titulo": "Registro Profesional",
-  "descripcion": "Ingrese tus datos en los campos para registrar una cuenta",
-  "campos": [
-    "Nombre completo",
-    "Título profesional",
-    "Especialidad",
-    "País",
-    "Ciudad",
-    "Enlace a CV"
-  ],
-  "textocampos": [
-    "Marco Antonio Rodríguez Garcés",
-    "Ingeniero de Sistemas",
-    "Desarrollo Web",
-    "España",
-    "Madrid",
-    "https://curriculumvitae.com"
-  ],
-  "boton": "Registrarse",
-  "textoSecundario": "¿Ya tienes cuenta?",
-  "linkSecundario": "Inicia sesión aquí"
-}
+[
+  {
+    "titulo": "Registro Profesional",
+    "descripcion": "Ingrese tus datos en los campos para registrar una cuenta",
+    "campos": [
+      "Nombre completo",
+      "Título profesional",
+      "Especialidad",
+      "País",
+      "Ciudad",
+      "Enlace a CV"
+    ],
+    "textocampos": [
+      "Marco Antonio Rodríguez Garcés",
+      "Ingeniero de Sistemas",
+      "Desarrollo Web",
+      "España",
+      "Madrid",
+      "https://curriculumvitae.com"
+    ],
+    "boton": "Registrarse",
+    "textoSecundario": "¿Ya tienes cuenta?",
+    "linkSecundario": "Inicia sesión aquí"
+  }
+]
