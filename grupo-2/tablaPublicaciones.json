@@ -1,0 +1,49 @@
+[
+  {
+    "titulo": "Mis Publicaciones",
+    "columnas": [
+      "Título",
+      "Fecha creación",
+      "Estado",
+      "Acciones"
+    ],
+    "filas": [
+      {
+        "titulo": "Estudio de Mercado",
+        "fecha": "2024-05-08",
+        "estado": "Aprobada",
+        "accion": "Ver"
+      },
+      {
+        "titulo": "Análisis de Rutas de Distribución",
+        "fecha": "2025-07-10",
+        "estado": "Rechazada",
+        "accion": "Editar"
+      },
+      {
+        "titulo": "Riesgos en la Supply Chain",
+        "fecha": "2025-05-19",
+        "estado": "Rechazada",
+        "accion": "Editar"
+      },
+      {
+        "titulo": "KPIs Clave para Bodegas",
+        "fecha": "2025-05-28",
+        "estado": "Borrador",
+        "accion": "Editar"
+      },
+      {
+        "titulo": "Desafíos del Flete Aéreo",
+        "fecha": "2025-11-04",
+        "estado": "Aprobada",
+        "accion": "Ver"
+      },
+      {
+        "titulo": "Mejores Prácticas de Inventario",
+        "fecha": "2024-10-26",
+        "estado": "Aprobada",
+        "accion": "Ver"
+      }
+    ]
+  }
+]
