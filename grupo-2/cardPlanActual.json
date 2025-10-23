@@ -1,7 +1,15 @@
 [
   {
-    "titulo": "Plan Actual",
-    "nombre": "PROFESIONAL",
-    "numero": "**** **** **** 1466"
+    "labels": {
+      "planActual": "Plan Actual",
+      "metodoPago": "Método de Pago"
+    },
+    "plan": {
+      "nombre": "PROFESIONAL"
+    },
+    "pago": {
+      "marca": "VISA",
+      "numeroMask": "**** **** **** 1466"
+    }
   }
 ]
