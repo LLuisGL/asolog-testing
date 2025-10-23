@@ -1,0 +1,24 @@
+[
+  {
+    "titulo": "Editar Perfil",
+    "campos": [
+      "Nombre completo",
+      "Título profesional",
+      "Especialidad",
+      "País",
+      "Ciudad",
+      "Enlace a CV"
+    ],
+    "textocampos": [
+      "Marco Antonio Rodríguez Garcés",
+      "Ingeniero de Sistemas",
+      "Desarrollo Web",
+      "España",
+      "Madrid",
+      "https://curriculumvitae.com"
+    ],
+      "botonGuardar": "GUARDAR",
+      "botonCancelar": "CANCELAR",
+      "botonCambiarFoto": "Cambiar Foto"
+  }
+]
