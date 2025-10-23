@@ -1,0 +1,30 @@
+[
+  {
+    "tituloSeccion": "Crear Publicación",
+    "titulo": {
+      "label": "Título*",
+      "placeholder": "Comercio Exterior Post-Pandemia"
+    },
+    "categorias": {
+      "label": "Categoría(s)*",
+      "opciones": ["Tecnología", "Salud", "Educación", "Economía", "Otros"]
+    },
+    "contenido": {
+      "label": "Contenido*"
+    },
+    "imagen": {
+      "label": "Imagen Destacada",
+      "btnTexto": "Elegir archivo",
+      "placeholder": "No se ha elegido un archivo"
+    },
+    "autor": {
+      "label": "Autor(a)",
+      "placeholder": "Marco Antonio Rodríguez Garcés"
+    },
+    "botones": [
+      "btn1": "Guardar como borrador",
+      "btn2": "Enviar a revisión"
+    ],
+    "nota": "Los campos marcados con * son obligatorios."
+  }
+]
