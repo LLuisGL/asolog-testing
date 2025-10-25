@@ -1,5 +1,6 @@
 {
     "username":"Admin",
     "password":"SecurePass123",
-    "email":"admin@uees.edu.ec"   
+    "email":"admin@uees.edu.ec",
+    "role":"administrator"   
 }
