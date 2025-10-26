@@ -70,5 +70,15 @@
     "imagen": "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=1600&auto=format",
     "fechalso": "2026-04-12T09:00:00Z",
     "estado": "Publicado"
-  }
+  },
+  {
+  "id": 9,
+  "titulo": "Congreso Internacional de Cadenas de Suministro 2026",
+  "descripcion": "Expertos de todo el mundo presentarán avances en logística inteligente, automatización y sostenibilidad.",
+  "lugar": "Quito",
+  "imagen": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format",
+  "fechaIso": "2026-05-18T09:00:00Z",
+  "estado": "Publicado"
+}
+
 ]
