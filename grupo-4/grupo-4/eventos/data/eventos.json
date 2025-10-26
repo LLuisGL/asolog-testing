@@ -17,4 +17,14 @@
     "fechaIso": "2025-11-20T09:00:00Z",
     "estado": "Publicado"
   }
+  {
+  "id": 3,
+  "titulo": "Cumbre Internacional de Logística",
+  "descripcion": "Reunión anual de expertos en transporte y comercio exterior.",
+  "lugar": "Cuenca",
+  "imagen": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1600&auto=format",
+  "fechalso": "2025-12-01T09:00:00Z",
+  "estado": "Publicado"
+}
+
 ]
