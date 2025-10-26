@@ -25,5 +25,50 @@
     "imagen": "https://images.unsplash.com/photo-1504384380989-c894fdcc538d?q=80&w=1600&auto=format",
     "fechalso": "2025-12-01T09:00:00Z",
     "estado": "Publicado"
+  },
+  {
+    "id": 4,
+    "titulo": "Expo Innovación Portuaria 2026",
+    "descripcion": "Nuevas tecnologías en gestión portuaria y optimización del flujo marítimo.",
+    "lugar": "Manta",
+    "imagen": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1600&auto=format",
+    "fechalso": "2026-01-15T10:00:00Z",
+    "estado": "Publicado"
+  },
+  {
+    "id": 5,
+    "titulo": "Simposio Internacional de Comercio y Logística",
+    "descripcion": "Análisis global sobre políticas comerciales y logística moderna.",
+    "lugar": "Santo Domingo",
+    "imagen": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1600&auto=format",
+    "fechalso": "2026-02-10T09:30:00Z",
+    "estado": "Publicado"
+  },
+  {
+    "id": 6,
+    "titulo": "Foro de Transporte Sostenible",
+    "descripcion": "Debate sobre las nuevas tendencias en transporte verde y reducción de emisiones.",
+    "lugar": "Loja",
+    "imagen": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?q=80&w=1600&auto=format",
+    "fechalso": "2026-03-05T08:00:00Z",
+    "estado": "Publicado"
+  },
+  {
+    "id": 7,
+    "titulo": "Encuentro Nacional de Exportadores",
+    "descripcion": "Empresarios y autoridades discuten estrategias para potenciar las exportaciones ecuatorianas.",
+    "lugar": "Machala",
+    "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1600&auto=format",
+    "fechalso": "2026-03-25T10:00:00Z",
+    "estado": "Publicado"
+  },
+  {
+    "id": 8,
+    "titulo": "Semana de la Movilidad Inteligente",
+    "descripcion": "Exposición de vehículos autónomos y sistemas de tráfico inteligente.",
+    "lugar": "Ambato",
+    "imagen": "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=1600&auto=format",
+    "fechalso": "2026-04-12T09:00:00Z",
+    "estado": "Publicado"
   }
 ]
