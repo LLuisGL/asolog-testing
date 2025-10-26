@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Foro Logístico 2025",
+    "descripcion": "Tendencias y estrategias para la optimización de cadenas de suministro.",
+    "lugar": "Guayaquil",
+    "imagen": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1600&auto=format",
+    "fechaIso": "2025-11-10T09:00:00Z",
+    "estado": "Publicado"
+  },
+  {
+    "id": 2,
+    "titulo": "Congreso Nacional de Transporte",
+    "descripcion": "Infraestructura, movilidad eléctrica y automatización del transporte pesado.",
+    "lugar": "Quito",
+    "imagen": "https://images.unsplash.com/photo-1505904267569-88f4f51f2a04?q=80&w=1600&auto=format",
+    "fechaIso": "2025-11-20T09:00:00Z",
+    "estado": "Publicado"
+  }
+]
