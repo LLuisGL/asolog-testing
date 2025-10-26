@@ -3,5 +3,22 @@
     "descripcion": "Proident amet exercitation elit anim labore nisi nisi ipsum dolore ex.",
     "logo": "",
     "sitio_web": "https://www.example.com",
-    "plan_suscripcion": "Seleccione un plan"
+    "planes": [
+        {
+            "valor": "platino",
+            "nombre": "Platino"
+        },
+        {
+            "valor": "oro",
+            "nombre": "Oro"
+        },
+        {
+            "valor": "plata",
+            "nombre": "Plata"
+        },
+        {
+            "valor": "bronce",
+            "nombre": "Bronce"
+        }
+    ]
 }
