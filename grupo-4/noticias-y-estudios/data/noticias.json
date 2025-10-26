@@ -52,5 +52,14 @@
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/tren-1.jpg",
     "fecha": "2025-09-10",
     "visitas": 0
-  }
+  },
+  {
+  "id": 7,
+  "titulo": "ASOLOG impulsa la innovación logística nacional",
+  "resumen": "Nuevos proyectos tecnológicos optimizan transporte y distribución en Ecuador.",
+  "texto": "La organización lidera iniciativas de digitalización, trazabilidad y analítica para mejorar el ecosistema logístico.",
+  "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/placeholder.png",
+  "fecha": "2025-10-16",
+  "visitas": 0
+}
 ]
