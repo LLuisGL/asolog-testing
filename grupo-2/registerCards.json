@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Elige tu tipo de afiliación",
+    "subtitulo": "¿Cómo te identificas?",
+    "opciones": [
+      {
+        "titulo": "Soy Profesional"
+      },
+      {
+        "titulo": "Soy Empresa"
+      }
+    ]
+  }
+]
