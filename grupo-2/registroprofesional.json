@@ -3,6 +3,8 @@
     "titulo": "Registro Profesional",
     "descripcion": "Ingrese tus datos en los campos para registrar una cuenta",
     "campos": [
+      "Correo",
+      "Contraseña",
       "Nombre completo",
       "Título profesional",
       "Especialidad",
@@ -11,6 +13,8 @@
       "Enlace a CV"
     ],
     "textocampos": [
+      "marcorodriguez@gmail.com",
+      "************",
       "Marco Antonio Rodríguez Garcés",
       "Ingeniero de Sistemas",
       "Desarrollo Web",
