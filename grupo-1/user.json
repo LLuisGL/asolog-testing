@@ -1,6 +1,20 @@
-{
+[
+    {
     "username":"Admin",
     "password":"SecurePass123",
     "email":"admin@uees.edu.ec",
     "role":"administrator"   
-}
+    },
+    {
+    "username":"Empresarial",
+    "password":"123",
+    "email":"empresarial@uees.edu.ec",
+    "role":"empresarial"   
+    },
+    {
+    "username":"Profesional",
+    "password":"123",
+    "email":"profesional@uees.edu.ec",
+    "role":"profesional"   
+    }
+]
