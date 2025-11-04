@@ -1,24 +1,72 @@
-{
-    "nombre_comercial": "Company S.A",
-    "descripcion": "Proident amet exercitation elit anim labore nisi nisi ipsum dolore ex.",
-    "logo": "",
-    "sitio_web": "https://www.example.com",
-    "planes": [
-        {
-            "valor": "platino",
-            "nombre": "Platino"
-        },
-        {
-            "valor": "oro",
-            "nombre": "Oro"
-        },
-        {
-            "valor": "plata",
-            "nombre": "Plata"
-        },
-        {
-            "valor": "bronce",
-            "nombre": "Bronce"
-        }
-    ]
-}
+[
+    {
+        "titulo": "Registro Empresarial",
+        "descripcion": "Ingrese tus datos en los campos para registrar una cuenta",
+        "campos": [
+            {
+                "nombre": "Correo",
+                "valor": "johndoe@example.com",
+                "tipo": "email",
+                "required": true
+            },
+            {
+                "nombre": "Contraseña",
+                "valor": "********",
+                "tipo": "password",
+                "required": true
+            },
+            {
+                "nombre": "Nombre comercial",
+                "valor": "Company S.A.",
+                "tipo": "text",
+                "required": true
+            },
+            {
+                "nombre": "Descripción",
+                "valor": "Proident amet exercitation elit anim labore nisi nisi ipsum dolore ex.",
+                "tipo": "text",
+                "required": true
+            },
+            {
+                "nombre": "Sitio web",
+                "valor": "https://www.example.com",
+                "tipo": "url",
+                "required": false
+            },
+            {
+                "nombre": "Logo",
+                "valor": "",
+                "tipo": "file",
+                "aceptados": ".jpg,.jpeg,.png",
+                "required": false
+            },
+            {
+                "nombre": "Plan de suscripción",
+                "valor": "",
+                "tipo": "select",
+                "opciones": [
+                    {
+                        "valor": "platino",
+                        "nombre": "Platino"
+                    },
+                    {
+                        "valor": "oro",
+                        "nombre": "Oro"
+                    },
+                    {
+                        "valor": "plata",
+                        "nombre": "Plata"
+                    },
+                    {
+                        "valor": "bronce",
+                        "nombre": "Bronce"
+                    }
+                ],
+                "required": true
+            }
+        ],
+        "boton": "Registrarse",
+        "textoSecundario": "¿Ya tienes cuenta?",
+        "linkSecundario": "Inicia sesión aquí"
+    }
+]
