@@ -1,30 +1,36 @@
 [
   {
     "id": 1,
-    "titulo": "Informe anual de desempeño logístico 2025",
-    "resumen": "Principales indicadores del sector: tiempos, eficiencia y sostenibilidad.",
+    "titulo": "Plan Estratégico ASOLOG 2030: Una Visión de Futuro",
+    "resumen": "Lanzamiento oficial de la hoja de ruta que guiará el desarrollo del sector logístico ecuatoriano.",
     "texto": "Resultados de eficiencia operativa, digitalización y sostenibilidad. Mejora del 15% en tiempos de entrega y 9% menos CO₂ por tonelada.",
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/puerto-1.jpg",
     "fecha": "2025-10-14",
-    "visitas": 0
+    "visitas": 0,
+    "categoria": "institucional",
+    "destacado": true
   },
   {
     "id": 2,
-    "titulo": "Estudio: Huella de carbono en transporte pesado",
-    "resumen": "Análisis de emisiones por tipo de motor y telemetría.",
-    "texto": "Modelo de medición por tipo de motor y combustible. Medidas: biodiésel, conducción eficiente y telemetría.",
+    "titulo": "Nueva Alianza con Clúster Logístico Regional",
+    "resumen": "Convenios de cooperación nacional e internacional que fortalecen el ecosistema logístico.",
+    "texto": "Análisis de emisiones por tipo de motor y telemetría. Medidas: biodiésel, conducción eficiente y telemetría.",
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/camion-1.jpg",
     "fecha": "2025-10-12",
-    "visitas": 0
+    "visitas": 0,
+    "categoria": "alianzas",
+    "destacado": false
   },
   {
     "id": 3,
-    "titulo": "Estudio: Costos logísticos por región 2025",
-    "resumen": "Comparativa de costos y tiempos por corredor logístico.",
+    "titulo": "Innovación Digital en la Cadena de Suministro",
+    "resumen": "Resultados de estudios, encuestas y análisis del sector logístico ecuatoriano.",
     "texto": "Se proponen incentivos e infraestructura para reducir costos logísticos.",
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/mesa-1.jpg",
     "fecha": "2025-10-01",
-    "visitas": 0
+    "visitas": 0,
+    "categoria": "investigacion",
+    "destacado": false
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "texto": "ASOLOG lanza sistema de trazabilidad con APIs abiertas y tableros por KPIs.",
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/mapa-1.jpg",
     "fecha": "2025-09-28",
-    "visitas": 0
+    "visitas": 0,
+    "categoria": "institucional",
+    "destacado": false
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "texto": "Certificación basada en seguridad operativa, documentación y desempeño.",
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/almacen-1.jpg",
     "fecha": "2025-09-20",
-    "visitas": 0
+    "visitas": 0,
+    "categoria": "alianzas",
+    "destacado": false
   },
   {
     "id": 6,
@@ -51,15 +61,19 @@
     "texto": "Se instala mesa para impulsar normativa y competitividad del sector.",
     "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/tren-1.jpg",
     "fecha": "2025-09-10",
-    "visitas": 0
+    "visitas": 0,
+    "categoria": "investigacion",
+    "destacado": false
   },
   {
-  "id": 7,
-  "titulo": "ASOLOG impulsa la innovación logística nacional",
-  "resumen": "Nuevos proyectos tecnológicos optimizan transporte y distribución en Ecuador.",
-  "texto": "La organización lidera iniciativas de digitalización, trazabilidad y analítica para mejorar el ecosistema logístico.",
-  "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/placeholder.png",
-  "fecha": "2025-10-16",
-  "visitas": 0
-}
+    "id": 7,
+    "titulo": "ASOLOG impulsa la innovación logística nacional",
+    "resumen": "Nuevos proyectos tecnológicos optimizan transporte y distribución en Ecuador.",
+    "texto": "La organización lidera iniciativas de digitalización, trazabilidad y analítica para mejorar el ecosistema logístico.",
+    "img": "https://raw.githubusercontent.com/LLuisGL/asolog-testing/main/grupo-4/noticias-y-estudios/img/placeholder.png",
+    "fecha": "2025-10-16",
+    "visitas": 0,
+    "categoria": "institucional",
+    "destacado": false
+  }
 ]
