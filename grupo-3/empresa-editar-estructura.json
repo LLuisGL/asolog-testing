@@ -1,0 +1,213 @@
+{
+    "secciones": [
+        {
+            "id": "datosEmpresa",
+            "titulo": "Datos de la Empresa",
+            "subtitulo": "Complete sus datos empresariales para crear su membresía",
+            "campos": [
+                {
+                    "id": "nombreComercial",
+                    "label": "Nombre Comercial",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "razonSocial",
+                    "label": "Razón Social",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "ruc",
+                    "label": "RUC",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "fechaFundacion",
+                    "label": "Fecha de Fundación",
+                    "type": "date",
+                    "required": false
+                },
+                {
+                    "id": "direccion",
+                    "label": "Dirección",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "correoCorporativo",
+                    "label": "Correo Corporativo",
+                    "type": "email",
+                    "required": true
+                },
+                {
+                    "id": "telefonoEmpresarial",
+                    "label": "Teléfono Empresarial",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "logo",
+                    "label": "Logo de la Empresa",
+                    "type": "file",
+                    "required": false
+                },
+                {
+                    "id": "descripcionBreve",
+                    "label": "Descripción Breve",
+                    "type": "textarea",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "id": "informacionNegocio",
+            "titulo": "Información del Negocio",
+            "subtitulo": "Cuéntanos sobre el sector en el que se desempeñan.",
+            "campos": [
+                {
+                    "id": "sectorIndustria",
+                    "label": "Sector o Industria",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "tipoEmpresa",
+                    "label": "Tipo de Empresa",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "tamanoEmpresa",
+                    "label": "Tamaño de la Empresa",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "marcaPromocionar",
+                    "label": "Marca o nombre que desea promocionar",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "productosServicios",
+                    "label": "Principales productos o servicios",
+                    "type": "textarea",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "id": "redesPromocion",
+            "titulo": "Redes y Promoción",
+            "subtitulo": "Comparta sus perfiles para mayor visibilidad.",
+            "campos": [
+                {
+                    "id": "sitioWeb",
+                    "label": "Sitio Web",
+                    "type": "url",
+                    "required": false
+                },
+                {
+                    "id": "linkedin",
+                    "label": "LinkedIn Empresarial",
+                    "type": "url",
+                    "required": false
+                },
+                {
+                    "id": "instagram",
+                    "label": "Perfil de Instagram",
+                    "type": "url",
+                    "required": false
+                },
+                {
+                    "id": "facebook",
+                    "label": "Perfil de Facebook",
+                    "type": "url",
+                    "required": false
+                },
+                {
+                    "id": "twitter",
+                    "label": "Perfil de X (Twitter)",
+                    "type": "url",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "id": "facturacion",
+            "titulo": "Facturación",
+            "subtitulo": "Información necesaria para las facturas.",
+            "campos": [
+                {
+                    "id": "fac_ruc",
+                    "label": "RUC",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "fac_razonSocial",
+                    "label": "Razón Social",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "fac_correo",
+                    "label": "Correo para Facturación",
+                    "type": "email",
+                    "required": false
+                },
+                {
+                    "id": "fac_telefono",
+                    "label": "Teléfono para Facturación",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "fac_centroFacturacion",
+                    "label": "Centro para Facturación",
+                    "type": "text",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "id": "referencia",
+            "titulo": "Referencia",
+            "subtitulo": "Proporcione un contacto de asistencia o referencia.",
+            "campos": [
+                {
+                    "id": "ref_nombre",
+                    "label": "Nombres y Apellidos",
+                    "type": "text",
+                    "required": true
+                },
+                {
+                    "id": "ref_cargo",
+                    "label": "Cargo",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "ref_celular",
+                    "label": "Celular",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "ref_correo",
+                    "label": "Correo",
+                    "type": "email",
+                    "required": false
+                },
+                {
+                    "id": "ref_relacion",
+                    "label": "Relación con la empresa",
+                    "type": "text",
+                    "required": false
+                }
+            ]
+        }
+    ]
+}
