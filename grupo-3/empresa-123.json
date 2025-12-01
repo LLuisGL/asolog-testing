@@ -1,0 +1,42 @@
+{
+    "empresaId": 123,
+    "datosEmpresa": {
+        "nombreComercial": "Tecnologías Andinas",
+        "razonSocial": "Tecnologías Andinas S.A.",
+        "ruc": "1792546873001",
+        "fechaFundacion": "2012-08-15",
+        "direccion": "Av. Amazonas y República, Quito",
+        "correoCorporativo": "contacto@tecandinas.com",
+        "telefonoEmpresarial": "+593 2 450 7890",
+        "logo": "https://miservidor.com/logos/empresa123.png",
+        "descripcionBreve": "Empresa dedicada a soluciones tecnológicas para pymes."
+    },
+    "informacionNegocio": {
+        "sectorIndustria": "Tecnología y Software",
+        "tipoEmpresa": "Sociedad Anónima",
+        "tamanoEmpresa": "Mediana (50 - 200 empleados)",
+        "marcaPromocionar": "TecAndinas",
+        "productosServicios": "Desarrollo de software, soporte técnico, venta de hardware."
+    },
+    "redesPromocion": {
+        "sitioWeb": "https://www.tecandinas.com",
+        "linkedin": "https://www.linkedin.com/company/tecandinas",
+        "instagram": "https://www.instagram.com/tecandinas",
+        "facebook": "https://www.facebook.com/tecandinas",
+        "twitter": "https://twitter.com/tecandinas"
+    },
+    "facturacion": {
+        "fac_ruc": "1792546873001",
+        "fac_razonSocial": "Tecnologías Andinas S.A.",
+        "fac_correo": "facturacion@tecandinas.com",
+        "fac_telefono": "+593 99 987 6543",
+        "fac_centroFacturacion": "Edificio Torres del Norte, Piso 5"
+    },
+    "referencia": {
+        "ref_nombre": "Carlos Vásquez",
+        "ref_cargo": "Gerente Administrativo",
+        "ref_celular": "+593 98 456 7891",
+        "ref_correo": "cvasquez@tecandinas.com",
+        "ref_relacion": "Contacto directo de facturación"
+    }
+}
