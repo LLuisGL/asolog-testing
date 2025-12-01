@@ -1,0 +1,36 @@
+{
+    "titulo": "Redes y Promoción",
+    "subtitulo": "Comparta sus perfiles para mayor visibilidad.",
+    "campos": [
+        {
+            "id": "sitioWeb",
+            "label": "Sitio Web",
+            "type": "url",
+            "required": false
+        },
+        {
+            "id": "linkedin",
+            "label": "LinkedIn Empresarial",
+            "type": "url",
+            "required": false
+        },
+        {
+            "id": "instagram",
+            "label": "Perfil de Instagram",
+            "type": "url",
+            "required": false
+        },
+        {
+            "id": "facebook",
+            "label": "Perfil de Facebook",
+            "type": "url",
+            "required": false
+        },
+        {
+            "id": "twitter",
+            "label": "Perfil de X (Twitter)",
+            "type": "url",
+            "required": false
+        }
+    ]
+}

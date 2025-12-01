@@ -1,0 +1,36 @@
+{
+    "titulo": "Facturación",
+    "subtitulo": "Información necesaria para las facturas.",
+    "campos": [
+        {
+            "id": "fac_ruc",
+            "label": "RUC",
+            "type": "text",
+            "required": true
+        },
+        {
+            "id": "fac_razonSocial",
+            "label": "Razón Social",
+            "type": "text",
+            "required": true
+        },
+        {
+            "id": "fac_correo",
+            "label": "Correo para Facturación",
+            "type": "email",
+            "required": false
+        },
+        {
+            "id": "fac_telefono",
+            "label": "Teléfono para Facturación",
+            "type": "text",
+            "required": false
+        },
+        {
+            "id": "fac_centroFacturacion",
+            "label": "Centro para Facturación",
+            "type": "text",
+            "required": false
+        }
+    ]
+}
