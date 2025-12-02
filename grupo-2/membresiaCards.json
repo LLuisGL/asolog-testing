@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Junior",
+    "precio": "$0",
+    "vigencia": "1 año",
+    "ventajas": [
+      "Emisión de certificado digital oficial que acredita la membresía activa.",
+      "Insignia digital para LinkedIn validada por ASOLOG.",
+      "Visibilidad destacada en el sitio web de ASOLOG.",
+      "Credencial física de miembro activo.",
+      "Descuentos en eventos, talleres y capacitaciones.",
+      "Acceso a ASOTALK (webinars).",
+      "Participación en redes o mesas técnicas.",
+      "Participación en voluntariado o programas de RSE.",
+      "Conexión con headhunters aliados.",
+      "Descuentos en programas ejecutivos (IDE, INCAE, etc.).",
+      "Acceso a biblioteca técnica o recursos especializados.",
+      "Postulación como ponente o instructor.",
+      "Acceso a bolsa de empleo logística.",
+      "Beneficios en comercios aliados.",
+      "Liderazgo en comités o directorio.",
+      "Difusión de artículos técnicos.",
+      "Reconocimientos anuales o distinciones."
+    ]
+  },
+  {
+    "titulo": "Profesional",
+    "precio": "$180",
+    "vigencia": "1 año",
+    "ventajas": [
+      "Emisión de certificado digital oficial que acredita la membresía activa.",
+      "Insignia digital para LinkedIn validada por ASOLOG.",
+      "Visibilidad destacada en el sitio web de ASOLOG.",
+      "Credencial física de miembro activo.",
+      "Descuentos en eventos, talleres y capacitaciones.",
+      "Acceso a ASOTALK (webinars).",
+      "Participación en redes o mesas técnicas.",
+      "Participación en voluntariado o programas de RSE.",
+      "Conexión con headhunters aliados.",
+      "Descuentos en programas ejecutivos (IDE, INCAE, etc.).",
+      "Acceso a biblioteca técnica o recursos especializados.",
+      "Postulación como ponente o instructor.",
+      "Acceso a bolsa de empleo logística.",
+      "Beneficios en comercios aliados.",
+      "Liderazgo en comités o directorio.",
+      "Difusión de artículos técnicos.",
+      "Reconocimientos anuales o distinciones."
+    ]
+  },
+  {
+    "titulo": "Senior",
+    "precio": "$300",
+    "vigencia": "1 año",
+    "ventajas": [
+      "Emisión de certificado digital oficial que acredita la membresía activa.",
+      "Insignia digital para LinkedIn validada por ASOLOG.",
+      "Visibilidad destacada en el sitio web de ASOLOG.",
+      "Credencial física de miembro activo.",
+      "Descuentos en eventos, talleres y capacitaciones.",
+      "Acceso a ASOTALK (webinars).",
+      "Participación en redes o mesas técnicas.",
+      "Participación en voluntariado o programas de RSE.",
+      "Conexión con headhunters aliados.",
+      "Descuentos en programas ejecutivos (IDE, INCAE, etc.).",
+      "Acceso a biblioteca técnica o recursos especializados.",
+      "Postulación como ponente o instructor.",
+      "Acceso a bolsa de empleo logística.",
+      "Beneficios en comercios aliados.",
+      "Liderazgo en comités o directorio.",
+      "Difusión de artículos técnicos.",
+      "Reconocimientos anuales o distinciones."
+    ]
+  }
+]
