@@ -6,6 +6,12 @@
             "subtitulo": "Complete sus datos empresariales para crear su membresía",
             "campos": [
                 {
+                    "id": "logo",
+                    "label": "Logo de la Empresa",
+                    "type": "file",
+                    "required": false
+                },
+                {
                     "id": "nombreComercial",
                     "label": "Nombre Comercial",
                     "type": "text",
@@ -45,12 +51,6 @@
                     "id": "telefonoEmpresarial",
                     "label": "Teléfono Empresarial",
                     "type": "text",
-                    "required": false
-                },
-                {
-                    "id": "logo",
-                    "label": "Logo de la Empresa",
-                    "type": "file",
                     "required": false
                 },
                 {
