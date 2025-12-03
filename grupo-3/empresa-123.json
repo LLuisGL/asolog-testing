@@ -3,6 +3,7 @@
     "datosEmpresa": {
         "nombreComercial": "Tecnologías Andinas",
         "razonSocial": "Tecnologías Andinas S.A.",
+        "contrasenia": "12345",
         "ruc": "1792546873001",
         "fechaFundacion": "2012-08-15",
         "direccion": "Av. Amazonas y República, Quito",

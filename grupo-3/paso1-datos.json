@@ -9,6 +9,18 @@
             "required": true
         },
         {
+            "id": "correoCorporativo",
+            "label": "Correo Corporativo",
+            "type": "email",
+            "required": true
+        },
+        {
+            "id": "contrasenia",
+            "label": "Contraseña",
+            "type": "password",
+            "required": true
+        },
+        {
             "id": "razonSocial",
             "label": "Razón Social",
             "type": "text",
@@ -30,12 +42,6 @@
             "id": "direccion",
             "label": "Dirección",
             "type": "text",
-            "required": true
-        },
-        {
-            "id": "correoCorporativo",
-            "label": "Correo Corporativo",
-            "type": "email",
             "required": true
         },
         {
