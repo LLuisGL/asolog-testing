@@ -1,0 +1,29 @@
+{
+  "paso": 2,
+  "pasosHeader": [
+    { "numero": 1, "nombre": "Datos del Profesional" },
+    { "numero": 2, "nombre": "Información Laboral" },
+    { "numero": 3, "nombre": "Redes y Promoción" },
+    { "numero": 4, "nombre": "Facturación" },
+    { "numero": 5, "nombre": "Referencia" }
+  ],
+  "titulo": "Experiencia Profesional",
+  "descripcion": "Cuéntanos sobre tu trabajo actual.",
+  "secciones": [
+    {
+      "titulo": "Información Laboral",
+      "campos": [
+        { "label": "Puesto / Cargo", "type": "text", "name": "cargo", "errores": { "required": "El campo Puesto / Cargo es obligatorio." } },
+        { "label": "Empresa donde labora", "type": "text", "name": "empresa", "errores": { "required": "El campo Empresa donde labora es obligatorio." } },
+        { "label": "Sector o Industria", "type": "text", "name": "sector", "errores": { "required": "El campo Sector o Industria es obligatorio." } },
+        { "label": "Profesión o Especialidad", "type": "text", "name": "profesion", "errores": { "required": "El campo Profesión o Especialidad es obligatorio." } },
+        { "label": "¿Pertenece a otro gremio?", "type": "text", "name": "gremio", "errores": {} },
+        { "label": "Principales productos o servicios", "type": "textarea", "name": "productos", "errores": {} }
+      ]
+    }
+  ],
+  "botones": {
+    "atras": "Atrás",
+    "siguiente": "Siguiente"
+  }
+}
