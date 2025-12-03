@@ -1,0 +1,28 @@
+{
+  "paso": 5,
+  "pasosHeader": [
+    { "numero": 1, "nombre": "Datos del Profesional" },
+    { "numero": 2, "nombre": "Información Laboral" },
+    { "numero": 3, "nombre": "Redes y Promoción" },
+    { "numero": 4, "nombre": "Facturación" },
+    { "numero": 5, "nombre": "Referencia" }
+  ],
+  "titulo": "Contacto de Referencia",
+  "descripcion": "Proporcione un contacto de asistencia o referencia.",
+  "secciones": [
+    {
+      "titulo": "Contacto de Referencia",
+      "campos": [
+        { "label": "Nombres y Apellidos", "type": "text", "name": "nombreReferencia", "errores": { "required": "El campo Nombres y Apellidos es obligatorio." } },
+        { "label": "Cargo", "type": "text", "name": "cargoReferencia", "errores": {} },
+        { "label": "Celular", "type": "text", "name": "celularReferencia", "errores": { "required": "El campo Celular es obligatorio." } },
+        { "label": "Correo", "type": "email", "name": "correoReferencia", "errores": { "email": "Ingrese un correo válido." } },
+        { "label": "Relación", "type": "text", "name": "relacionReferencia", "errores": {} }
+      ]
+    }
+  ],
+  "botones": {
+    "atras": "Atrás",
+    "enviar": "Enviar Registro"
+  }
+}
