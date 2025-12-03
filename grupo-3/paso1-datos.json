@@ -51,15 +51,15 @@
             "required": false
         },
         {
-            "id": "logo",
-            "label": "Logo de la Empresa",
-            "type": "file",
-            "required": false
-        },
-        {
             "id": "descripcionBreve",
             "label": "Descripción Breve",
             "type": "textarea",
+            "required": false
+        },
+        {
+            "id": "logo",
+            "label": "Logo de la Empresa",
+            "type": "file",
             "required": false
         }
     ]
