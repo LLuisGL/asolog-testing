@@ -1,0 +1,38 @@
+{
+  "paso": 1,
+  "pasosHeader": [
+    { "numero": 1, "nombre": "Datos del Profesional" },
+    { "numero": 2, "nombre": "Información Laboral" },
+    { "numero": 3, "nombre": "Redes y Promoción" },
+    { "numero": 4, "nombre": "Facturación" },
+    { "numero": 5, "nombre": "Referencia" }
+  ],
+  "titulo": "Ingresa tus datos",
+  "descripcion": "Completa tus datos personales para crear tu membresía",
+  "secciones": [
+    {
+      "titulo": "Información Personal",
+      "campos": [
+        { "label": "Nombre", "type": "text", "name": "nombre", "errores": { "required": "El campo Nombre es obligatorio." } },
+        { "label": "Apellidos", "type": "text", "name": "apellidos", "errores": { "required": "El campo Apellidos es obligatorio." } },
+        { "label": "Fecha de Nacimiento", "type": "date", "name": "fechaNacimiento", "placeholder": "dd/mm/aaaa", "errores": { "required": "La fecha de nacimiento es obligatoria.", "invalid": "Ingrese una fecha válida." } },
+        { "label": "Documento de Identidad", "type": "text", "name": "documentoIdentidad", "errores": { "required": "El campo Documento de Identidad es obligatorio." } },
+        { "label": "Dirección de Residencia", "type": "text", "name": "direccionResidencia", "errores": { "required": "El campo Dirección de Residencia es obligatorio." } },
+        { "label": "Correo Personal", "type": "email", "name": "correoPersonal", "errores": { "required": "El campo Correo Personal es obligatorio.", "email": "Ingrese un correo electrónico válido." } },
+        { "label": "Correo Laboral", "type": "email", "name": "correoLaboral", "errores": { "email": "Ingrese un correo electrónico válido." } },
+        { "label": "Contraseña", "type": "password", "name": "password", "errores": { "required": "La contraseña es obligatoria.", "minlength": "La contraseña debe tener al menos 8 caracteres." } },
+        { "label": "Confirmar Contraseña", "type": "password", "name": "confirmPassword", "errores": { "required": "Debe confirmar su contraseña.", "mismatch": "Las contraseñas no coinciden." } }
+      ]
+    },
+    {
+      "titulo": "Información Adicional",
+      "campos": [
+        { "label": "Celular / Whatsapp", "type": "text", "name": "celular", "errores": { "required": "El campo Celular / Whatsapp es obligatorio." } }
+      ]
+    }
+  ],
+  "botones": {
+    "atras": "Atrás",
+    "siguiente": "Siguiente"
+  }
+}
