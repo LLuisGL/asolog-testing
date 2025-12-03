@@ -12,6 +12,18 @@
                     "required": true
                 },
                 {
+                    "id": "correoCorporativo",
+                    "label": "Correo Corporativo",
+                    "type": "email",
+                    "required": true
+                },
+                {
+                    "id": "contrasenia",
+                    "label": "Contraseña",
+                    "type": "password",
+                    "required": true
+                },
+                {
                     "id": "razonSocial",
                     "label": "Razón Social",
                     "type": "text",
@@ -35,12 +47,7 @@
                     "type": "text",
                     "required": true
                 },
-                {
-                    "id": "correoCorporativo",
-                    "label": "Correo Corporativo",
-                    "type": "email",
-                    "required": true
-                },
+                
                 {
                     "id": "telefonoEmpresarial",
                     "label": "Teléfono Empresarial",
@@ -48,15 +55,15 @@
                     "required": false
                 },
                 {
-                    "id": "logo",
-                    "label": "Logo de la Empresa",
-                    "type": "file",
-                    "required": false
-                },
-                {
                     "id": "descripcionBreve",
                     "label": "Descripción Breve",
                     "type": "textarea",
+                    "required": false
+                },
+                {
+                    "id": "logo",
+                    "label": "Logo de la Empresa",
+                    "type": "file",
                     "required": false
                 }
             ]
