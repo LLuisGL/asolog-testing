@@ -1,0 +1,74 @@
+{
+    "paso": 2,
+    "pasosHeader": [
+        {
+            "numero": 1,
+            "nombre": "Datos de la Empresa"
+        },
+        {
+            "numero": 2,
+            "nombre": "Información del Negocio"
+        },
+        {
+            "numero": 3,
+            "nombre": "Redes y Promoción"
+        },
+        {
+            "numero": 4,
+            "nombre": "Facturación"
+        },
+        {
+            "numero": 5,
+            "nombre": "Referencia"
+        }
+    ],
+    "titulo": "Información del Negocio",
+    "descripcion": "Cuéntanos sobre el sector en el que se desempeñan.",
+    "secciones": [
+        {
+            "titulo": "Información Laboral del Negocio",
+            "campos": [
+                {
+                    "label": "Sector o Industria",
+                    "type": "text",
+                    "name": "sectorIndustria",
+                    "errores": {
+                        "required": "El campo Sector o Industria es obligatorio."
+                    }
+                },
+                {
+                    "label": "Tipo de Empresa",
+                    "type": "text",
+                    "name": "tipoEmpresa",
+                    "errores": {
+                        "required": "El campo Tipo de Empresa es obligatorio."
+                    }
+                },
+                {
+                    "label": "Tamaño de la Empresa",
+                    "type": "text",
+                    "name": "tamanoEmpresa",
+                    "errores": {}
+                },
+                {
+                    "label": "Marca o nombre que desea promocionar",
+                    "type": "text",
+                    "name": "marcaPromocionar",
+                    "errores": {}
+                },
+                {
+                    "label": "Principales productos o servicios",
+                    "type": "textarea",
+                    "name": "productosServicios",
+                    "errores": {
+                        "required": "Debe ingresar los principales productos o servicios."
+                    }
+                }
+            ]
+        }
+    ],
+    "botones": {
+        "atras": "Atrás",
+        "siguiente": "Siguiente"
+    }
+}

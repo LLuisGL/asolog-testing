@@ -1,0 +1,111 @@
+{
+    "paso": 1,
+    "pasosHeader": [
+        {
+            "numero": 1,
+            "nombre": "Datos de la Empresa"
+        },
+        {
+            "numero": 2,
+            "nombre": "Información del Negocio"
+        },
+        {
+            "numero": 3,
+            "nombre": "Redes y Promoción"
+        },
+        {
+            "numero": 4,
+            "nombre": "Facturación"
+        },
+        {
+            "numero": 5,
+            "nombre": "Referencia"
+        }
+    ],
+    "titulo": "Datos de la Empresa",
+    "descripcion": "Complete sus datos empresariales para crear su membresía",
+    "secciones": [
+        {
+            "titulo": "Información Empresarial",
+            "campos": [
+                {
+                    "label": "Nombre Comercial",
+                    "type": "text",
+                    "name": "nombreComercial",
+                    "errores": {
+                        "required": "El campo Nombre Comercial es obligatorio."
+                    }
+                },
+                {
+                    "label": "Correo Corporativo",
+                    "type": "email",
+                    "name": "correoCorporativo",
+                    "errores": {
+                        "required": "El campo Correo Corporativo es obligatorio.",
+                        "email": "Ingrese un correo electrónico válido."
+                    }
+                },
+                {
+                    "label": "Contraseña",
+                    "type": "password",
+                    "name": "contrasenia",
+                    "errores": {
+                        "required": "La contraseña es obligatoria."
+                    }
+                },
+                {
+                    "label": "Razón Social",
+                    "type": "text",
+                    "name": "razonSocial",
+                    "errores": {
+                        "required": "El campo Razón Social es obligatorio."
+                    }
+                },
+                {
+                    "label": "RUC",
+                    "type": "text",
+                    "name": "ruc",
+                    "errores": {
+                        "required": "El campo RUC es obligatorio."
+                    }
+                },
+                {
+                    "label": "Fecha de Fundación",
+                    "type": "date",
+                    "name": "fechaFundacion",
+                    "errores": {}
+                },
+                {
+                    "label": "Dirección",
+                    "type": "text",
+                    "name": "direccion",
+                    "errores": {
+                        "required": "El campo Dirección es obligatorio."
+                    }
+                },
+                {
+                    "label": "Teléfono Empresarial",
+                    "type": "text",
+                    "name": "telefonoEmpresarial",
+                    "errores": {}
+                },
+                {
+                    "label": "Descripción Breve",
+                    "type": "textarea",
+                    "name": "descripcionBreve",
+                    "errores": {}
+                },
+                {
+                    "label": "Logo de la Empresa",
+                    "type": "file",
+                    "name": "logo",
+                    "errores": {}
+                }
+            ]
+        }
+    ],
+    "botones": {
+        "atras": "Atrás",
+        "siguiente": "Siguiente"
+    }
+}

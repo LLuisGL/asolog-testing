@@ -1,0 +1,83 @@
+{
+    "paso": 3,
+    "pasosHeader": [
+        {
+            "numero": 1,
+            "nombre": "Datos de la Empresa"
+        },
+        {
+            "numero": 2,
+            "nombre": "Información del Negocio"
+        },
+        {
+            "numero": 3,
+            "nombre": "Redes y Promoción"
+        },
+        {
+            "numero": 4,
+            "nombre": "Facturación"
+        },
+        {
+            "numero": 5,
+            "nombre": "Referencia"
+        }
+    ],
+    "titulo": "Redes y Promoción",
+    "descripcion": "Comparta sus perfiles para mayor visibilidad.",
+    "secciones": [
+        {
+            "titulo": "Presencia en Línea",
+            "campos": [
+                {
+                    "label": "Sitio Web",
+                    "type": "url",
+                    "name": "sitioWeb",
+                    "placeholder": "https://",
+                    "errores": {
+                        "url": "Ingrese una URL válida."
+                    }
+                },
+                {
+                    "label": "LinkedIn Empresarial",
+                    "type": "url",
+                    "name": "linkedin",
+                    "placeholder": "https://linkedin.com/in/",
+                    "errores": {
+                        "url": "Ingrese un enlace válido de LinkedIn."
+                    }
+                },
+                {
+                    "label": "Perfil de Instagram",
+                    "type": "url",
+                    "name": "instagram",
+                    "placeholder": "https://instagram.com/",
+                    "errores": {
+                        "url": "Ingrese un enlace válido de Instagram."
+                    }
+                },
+                {
+                    "label": "Perfil de Facebook",
+                    "type": "url",
+                    "name": "facebook",
+                    "placeholder": "https://facebook.com/",
+                    "errores": {
+                        "url": "Ingrese un enlace válido de Facebook."
+                    }
+                },
+                {
+                    "label": "Perfil de X (Twitter)",
+                    "type": "url",
+                    "name": "twitter",
+                    "placeholder": "https://x.com/",
+                    "errores": {
+                        "url": "Ingrese un enlace válido de X."
+                    }
+                }
+            ]
+        }
+    ],
+    "botones": {
+        "atras": "Atrás",
+        "siguiente": "Siguiente"
+    }
+}

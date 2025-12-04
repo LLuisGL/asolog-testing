@@ -1,0 +1,74 @@
+{
+    "paso": 4,
+    "pasosHeader": [
+        {
+            "numero": 1,
+            "nombre": "Datos de la Empresa"
+        },
+        {
+            "numero": 2,
+            "nombre": "Información del Negocio"
+        },
+        {
+            "numero": 3,
+            "nombre": "Redes y Promoción"
+        },
+        {
+            "numero": 4,
+            "nombre": "Facturación"
+        },
+        {
+            "numero": 5,
+            "nombre": "Referencia"
+        }
+    ],
+    "titulo": "Facturación",
+    "descripcion": "Información necesaria para las facturas.",
+    "secciones": [
+        {
+            "titulo": "Información de Facturación",
+            "campos": [
+                {
+                    "label": "RUC",
+                    "type": "text",
+                    "name": "fac_ruc",
+                    "errores": {
+                        "required": "El campo RUC es obligatorio."
+                    }
+                },
+                {
+                    "label": "Razón Social",
+                    "type": "text",
+                    "name": "fac_razonSocial",
+                    "errores": {
+                        "required": "El campo Razón Social es obligatorio."
+                    }
+                },
+                {
+                    "label": "Correo para Facturación",
+                    "type": "email",
+                    "name": "fac_correo",
+                    "errores": {
+                        "email": "Ingrese un correo electrónico válido."
+                    }
+                },
+                {
+                    "label": "Teléfono para Facturación",
+                    "type": "text",
+                    "name": "fac_telefono",
+                    "errores": {}
+                },
+                {
+                    "label": "Centro para Facturación",
+                    "type": "text",
+                    "name": "fac_centroFacturacion",
+                    "errores": {}
+                }
+            ]
+        }
+    ],
+    "botones": {
+        "atras": "Atrás",
+        "siguiente": "Siguiente"
+    }
+}
