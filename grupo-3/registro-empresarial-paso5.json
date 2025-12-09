@@ -40,13 +40,17 @@
                     "label": "Cargo",
                     "type": "text",
                     "name": "ref_cargo",
-                    "errores": {}
+                    "errores": {
+                        "required": "El campo cargo es obligatorio."
+                    }
                 },
                 {
                     "label": "Celular",
                     "type": "text",
                     "name": "ref_celular",
-                    "errores": {}
+                    "errores": {
+                        "required": "El campo Celular es obligatorio."
+                    }
                 },
                 {
                     "label": "Correo",
@@ -60,7 +64,9 @@
                     "label": "Relación con la empresa",
                     "type": "text",
                     "name": "ref_relacion",
-                    "errores": {}
+                    "errores": {
+                        "required": "El campo Relación con empresa es obligatorio."
+                    }
                 }
             ]
         }

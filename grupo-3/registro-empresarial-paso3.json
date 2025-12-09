@@ -22,16 +22,22 @@
             "nombre": "Referencia"
         }
     ],
-    "titulo": "Redes y Promoción",
+    "titulo": "Presencia en Línea",
     "descripcion": "Comparta sus perfiles para mayor visibilidad.",
     "secciones": [
         {
-            "titulo": "Presencia en Línea",
+            "titulo": "Redes y Promoción",
             "campos": [
+                {
+                    "label": "Marca o nombre que desea promocionar",
+                    "type": "text",
+                    "name": "marca",
+                    "errores": {}
+                },
                 {
                     "label": "Sitio Web",
                     "type": "url",
-                    "name": "sitioWeb",
+                    "name": "web",
                     "placeholder": "https://",
                     "errores": {
                         "url": "Ingrese una URL válida."

@@ -26,7 +26,7 @@
     "descripcion": "Cuéntanos sobre el sector en el que se desempeñan.",
     "secciones": [
         {
-            "titulo": "Información Laboral del Negocio",
+            "titulo": "Información del Negocio",
             "campos": [
                 {
                     "label": "Sector o Industria",
@@ -51,17 +51,11 @@
                     "errores": {}
                 },
                 {
-                    "label": "Marca o nombre que desea promocionar",
-                    "type": "text",
-                    "name": "marcaPromocionar",
-                    "errores": {}
-                },
-                {
                     "label": "Principales productos o servicios",
                     "type": "textarea",
                     "name": "productosServicios",
                     "errores": {
-                        "required": "Debe ingresar los principales productos o servicios."
+                        
                     }
                 }
             ]

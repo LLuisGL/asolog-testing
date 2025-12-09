@@ -22,7 +22,7 @@
             "nombre": "Referencia"
         }
     ],
-    "titulo": "Facturación",
+    "titulo": "Datos de Facturación",
     "descripcion": "Información necesaria para las facturas.",
     "secciones": [
         {
@@ -33,7 +33,9 @@
                     "type": "text",
                     "name": "fac_ruc",
                     "errores": {
-                        "required": "El campo RUC es obligatorio."
+                        "required": "El campo RUC es obligatorio.",
+                        "minlengthRUC": "El RUC no debe tener menos de 13 caracteres.",
+                        "maxlengthRUC": "El RUC no debe tener más de 13 caracteres."
                     }
                 },
                 {
@@ -56,7 +58,9 @@
                     "label": "Teléfono para Facturación",
                     "type": "text",
                     "name": "fac_telefono",
-                    "errores": {}
+                    "errores": {
+                        "required": "El campo Teléfono Fijo es obligatorio."
+                    }
                 },
                 {
                     "label": "Centro para Facturación",

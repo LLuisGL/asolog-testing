@@ -48,9 +48,19 @@
                 {
                     "label": "Contraseña",
                     "type": "password",
-                    "name": "contrasenia",
+                    "name": "password",
                     "errores": {
-                        "required": "La contraseña es obligatoria."
+                        "required": "La contraseña es obligatoria.",
+                        "minlength": "La contraseña debe tener al menos 8 caracteres."
+                    }
+                },
+                {
+                    "label": "Confirmar Contraseña",
+                    "type": "password",
+                    "name": "confirmPassword",
+                    "errores": {
+                        "required": "Debe confirmar su contraseña.",
+                        "mismatch": "Las contraseñas no coinciden."
                     }
                 },
                 {
@@ -66,14 +76,18 @@
                     "type": "text",
                     "name": "ruc",
                     "errores": {
-                        "required": "El campo RUC es obligatorio."
+                        "required": "El campo RUC es obligatorio.","minlengthRUC": "El RUC no debe tener menos de 13 caracteres.",
+                        "maxlengthRUC": "El RUC no debe tener más de 13 caracteres."
                     }
                 },
                 {
                     "label": "Fecha de Fundación",
                     "type": "date",
                     "name": "fechaFundacion",
-                    "errores": {}
+                    "placeholder": "dd/mm/aaaa",
+                    "errores": {
+                        "invalid": "Ingrese una fecha válida."
+                    }
                 },
                 {
                     "label": "Dirección",
