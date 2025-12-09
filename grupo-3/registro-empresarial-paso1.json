@@ -76,7 +76,8 @@
                     "type": "text",
                     "name": "ruc",
                     "errores": {
-                        "required": "El campo RUC es obligatorio.","minlengthRUC": "El RUC no debe tener menos de 13 caracteres.",
+                        "required": "El campo RUC es obligatorio.",
+                        "minlengthRUC": "El RUC no debe tener menos de 13 caracteres.",
                         "maxlengthRUC": "El RUC no debe tener más de 13 caracteres."
                     }
                 },
