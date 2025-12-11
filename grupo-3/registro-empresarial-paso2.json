@@ -31,7 +31,7 @@
                 {
                     "label": "Sector o Industria",
                     "type": "text",
-                    "name": "sectorIndustria",
+                    "name": "sector_industria",
                     "errores": {
                         "required": "El campo Sector o Industria es obligatorio."
                     }
@@ -39,7 +39,7 @@
                 {
                     "label": "Tipo de Empresa",
                     "type": "text",
-                    "name": "tipoEmpresa",
+                    "name": "tipo_empresa",
                     "errores": {
                         "required": "El campo Tipo de Empresa es obligatorio."
                     }
@@ -47,13 +47,13 @@
                 {
                     "label": "Tamaño de la Empresa",
                     "type": "text",
-                    "name": "tamanoEmpresa",
+                    "name": "tamanio_empresa",
                     "errores": {}
                 },
                 {
                     "label": "Principales productos o servicios",
                     "type": "textarea",
-                    "name": "productosServicios",
+                    "name": "productos_servicios",
                     "errores": {
                         
                     }

@@ -31,13 +31,13 @@
                 {
                     "label": "Marca o nombre que desea promocionar",
                     "type": "text",
-                    "name": "marca",
+                    "name": "marca_promocionar",
                     "errores": {}
                 },
                 {
                     "label": "Sitio Web",
                     "type": "url",
-                    "name": "web",
+                    "name": "sitio_web",
                     "placeholder": "https://",
                     "errores": {
                         "url": "Ingrese una URL válida."
@@ -46,7 +46,7 @@
                 {
                     "label": "LinkedIn Empresarial",
                     "type": "url",
-                    "name": "linkedin",
+                    "name": "perfil_linkedin",
                     "placeholder": "https://linkedin.com/in/",
                     "errores": {
                         "url": "Ingrese un enlace válido de LinkedIn."
@@ -55,7 +55,7 @@
                 {
                     "label": "Perfil de Instagram",
                     "type": "url",
-                    "name": "instagram",
+                    "name": "perfil_instagram",
                     "placeholder": "https://instagram.com/",
                     "errores": {
                         "url": "Ingrese un enlace válido de Instagram."
@@ -64,7 +64,7 @@
                 {
                     "label": "Perfil de Facebook",
                     "type": "url",
-                    "name": "facebook",
+                    "name": "perfil_facebook",
                     "placeholder": "https://facebook.com/",
                     "errores": {
                         "url": "Ingrese un enlace válido de Facebook."
@@ -73,7 +73,7 @@
                 {
                     "label": "Perfil de X (Twitter)",
                     "type": "url",
-                    "name": "twitter",
+                    "name": "perfil_twitter",
                     "placeholder": "https://x.com/",
                     "errores": {
                         "url": "Ingrese un enlace válido de X."

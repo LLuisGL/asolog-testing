@@ -31,7 +31,7 @@
                 {
                     "label": "Nombre Comercial",
                     "type": "text",
-                    "name": "nombreComercial",
+                    "name": "nombre_comercial",
                     "errores": {
                         "required": "El campo Nombre Comercial es obligatorio."
                     }
@@ -39,7 +39,7 @@
                 {
                     "label": "Correo Corporativo",
                     "type": "email",
-                    "name": "correoCorporativo",
+                    "name": "correo_corporativo",
                     "errores": {
                         "required": "El campo Correo Corporativo es obligatorio.",
                         "email": "Ingrese un correo electrónico válido."
@@ -66,7 +66,7 @@
                 {
                     "label": "Razón Social",
                     "type": "text",
-                    "name": "razonSocial",
+                    "name": "razon_social",
                     "errores": {
                         "required": "El campo Razón Social es obligatorio."
                     }
@@ -84,16 +84,17 @@
                 {
                     "label": "Fecha de Fundación",
                     "type": "date",
-                    "name": "fechaFundacion",
+                    "name": "fecha_fundacion",
                     "placeholder": "dd/mm/aaaa",
                     "errores": {
-                        "invalid": "Ingrese una fecha válida."
+                        "invalid": "Ingrese una fecha válida.",
+                        "required": "El campo Fecha de Fundación es obligatorio."
                     }
                 },
                 {
                     "label": "Dirección",
                     "type": "text",
-                    "name": "direccion",
+                    "name": "direccion_empresa",
                     "errores": {
                         "required": "El campo Dirección es obligatorio."
                     }
@@ -101,8 +102,10 @@
                 {
                     "label": "Teléfono Empresarial",
                     "type": "text",
-                    "name": "telefonoEmpresarial",
-                    "errores": {}
+                    "name": "celular_empresa",
+                    "errores": {
+                        "required": "El campo Teléfono Empresarial es obligatorio."
+                    }
                 },
                 {
                     "label": "Logo de la Empresa",
@@ -113,7 +116,7 @@
                 {
                     "label": "Descripción Breve",
                     "type": "textarea",
-                    "name": "descripcionBreve",
+                    "name": "descripcion",
                     "errores": {}
                 }
             ]

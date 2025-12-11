@@ -31,7 +31,7 @@
                 {
                     "label": "Nombres y Apellidos",
                     "type": "text",
-                    "name": "ref_nombre",
+                    "name": "referencia_nombres_apellidos",
                     "errores": {
                         "required": "El campo Nombres y Apellidos es obligatorio."
                     }
@@ -39,7 +39,7 @@
                 {
                     "label": "Cargo",
                     "type": "text",
-                    "name": "ref_cargo",
+                    "name": "referencia_cargo",
                     "errores": {
                         "required": "El campo cargo es obligatorio."
                     }
@@ -47,7 +47,7 @@
                 {
                     "label": "Celular",
                     "type": "text",
-                    "name": "ref_celular",
+                    "name": "referencia_celular",
                     "errores": {
                         "required": "El campo Celular es obligatorio."
                     }
@@ -55,7 +55,7 @@
                 {
                     "label": "Correo",
                     "type": "email",
-                    "name": "ref_correo",
+                    "name": "referencia_correo",
                     "errores": {
                         "email": "Ingrese un correo válido.",
                         "required": "El campo Correo es obligatorio."
@@ -64,7 +64,7 @@
                 {
                     "label": "Relación con la empresa",
                     "type": "text",
-                    "name": "ref_relacion",
+                    "name": "referencia_relacion",
                     "errores": {
                         "required": "El campo Relación con empresa es obligatorio."
                     }

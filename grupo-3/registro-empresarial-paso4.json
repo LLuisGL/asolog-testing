@@ -41,7 +41,7 @@
                 {
                     "label": "Razón Social",
                     "type": "text",
-                    "name": "fac_razonSocial",
+                    "name": "fac_razon_social",
                     "errores": {
                         "required": "El campo Razón Social es obligatorio."
                     }
@@ -49,7 +49,7 @@
                 {
                     "label": "Correo para Facturación",
                     "type": "email",
-                    "name": "fac_correo",
+                    "name": "fac_correo_facturacion",
                     "errores": {
                         "email": "Ingrese un correo electrónico válido.",
                         "required": "El campo Correo para Facturación es obligatorio."
@@ -66,7 +66,7 @@
                 {
                     "label": "Centro para Facturación",
                     "type": "text",
-                    "name": "fac_centroFacturacion",
+                    "name": "centro_facturacion",
                     "errores": {
                         "required": "El campo Centro para Facturación es obligatorio."
                     }
