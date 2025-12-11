@@ -51,7 +51,8 @@
                     "type": "email",
                     "name": "fac_correo",
                     "errores": {
-                        "email": "Ingrese un correo electrónico válido."
+                        "email": "Ingrese un correo electrónico válido.",
+                        "required": "El campo Correo para Facturación es obligatorio."
                     }
                 },
                 {
@@ -66,7 +67,9 @@
                     "label": "Centro para Facturación",
                     "type": "text",
                     "name": "fac_centroFacturacion",
-                    "errores": {}
+                    "errores": {
+                        "required": "El campo Centro para Facturación es obligatorio."
+                    }
                 }
             ]
         }
