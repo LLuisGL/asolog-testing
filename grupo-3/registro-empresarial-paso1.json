@@ -105,15 +105,15 @@
                     "errores": {}
                 },
                 {
-                    "label": "Descripción Breve",
-                    "type": "textarea",
-                    "name": "descripcionBreve",
-                    "errores": {}
-                },
-                {
                     "label": "Logo de la Empresa",
                     "type": "file",
                     "name": "logo",
+                    "errores": {}
+                },
+                {
+                    "label": "Descripción Breve",
+                    "type": "textarea",
+                    "name": "descripcionBreve",
                     "errores": {}
                 }
             ]
