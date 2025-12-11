@@ -46,7 +46,7 @@
                 },
                 {
                     "label": "Celular",
-                    "type": "text",
+                    "type": "phone",
                     "name": "referencia_celular",
                     "errores": {
                         "required": "El campo Celular es obligatorio."

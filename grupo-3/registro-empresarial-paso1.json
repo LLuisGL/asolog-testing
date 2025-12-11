@@ -101,7 +101,7 @@
                 },
                 {
                     "label": "Teléfono Empresarial",
-                    "type": "text",
+                    "type": "phone",
                     "name": "celular_empresa",
                     "errores": {
                         "required": "El campo Teléfono Empresarial es obligatorio."

@@ -57,7 +57,7 @@
                 },
                 {
                     "label": "Teléfono para Facturación",
-                    "type": "text",
+                    "type": "phone",
                     "name": "fac_telefono",
                     "errores": {
                         "required": "El campo Teléfono Fijo es obligatorio."
