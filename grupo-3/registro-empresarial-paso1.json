@@ -104,14 +104,18 @@
                     "type": "phone",
                     "name": "celular_empresa",
                     "errores": {
-                        "required": "El campo Teléfono Empresarial es obligatorio."
+                        "required": "El campo Teléfono Empresarial es obligatorio.",
+                        "phone": "Teléfono inválido (solo números, 7 a 10 dígitos)"
                     }
                 },
                 {
                     "label": "Logo de la Empresa",
                     "type": "file",
                     "name": "logo",
-                    "errores": {}
+                    "errores": {
+                        "fileType": "Formato inválido. Solo se permiten PNG, JPG o JPEG.",
+                        "fileSize": "El archivo no puede superar los 2 MB."
+                    }
                 },
                 {
                     "label": "Descripción Breve",

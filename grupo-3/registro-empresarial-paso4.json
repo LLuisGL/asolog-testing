@@ -60,7 +60,8 @@
                     "type": "phone",
                     "name": "fac_telefono",
                     "errores": {
-                        "required": "El campo Teléfono Fijo es obligatorio."
+                        "required": "El campo Teléfono Fijo es obligatorio.",
+                        "phone": "Teléfono inválido (solo números, 7 a 10 dígitos)"
                     }
                 },
                 {
