@@ -46,17 +46,35 @@
                 },
                 {
                     "label": "Tamaño de la Empresa",
-                    "type": "text",
+                    "type": "select",
                     "name": "tamanio_empresa",
-                    "errores": {}
+                    "errores": {
+                        "required": "Debe seleccionar una opción"
+                    },
+                    "options": [
+                        {
+                            "value": "micro",
+                            "label": "Microempresa (1-9 empleados)"
+                        },
+                        {
+                            "value": "pequena",
+                            "label": "Pequeña Empresa (10-49 empleados)"
+                        },
+                        {
+                            "value": "mediana",
+                            "label": "Mediana Empresa (50-199 empleados)"
+                        },
+                        {
+                            "value": "grande",
+                            "label": "Grande Empresa (200+ empleados)"
+                        }
+                    ]
                 },
                 {
                     "label": "Principales productos o servicios",
                     "type": "textarea",
                     "name": "productos_servicios",
-                    "errores": {
-                        
-                    }
+                    "errores": {}
                 }
             ]
         }
