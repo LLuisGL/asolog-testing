@@ -4,9 +4,5 @@
     { "label": "Fecha de creación" },
     { "label": "Estado" },
     { "label": "Acciones" }
-  ],
-  "acciones": [
-    { "label": "Editar" },
-    { "label": "Eliminar" }
   ]
 }
