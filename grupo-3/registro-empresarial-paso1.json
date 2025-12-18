@@ -88,8 +88,8 @@
                     "placeholder": "dd/mm/aaaa",
                     "errores": {
                         "required": "El campo Fecha de Fundación es obligatorio.",
-                        "futureDate": "La fecha no puede ser futura.",
-                        "todayDate": "La empresa no puede fundarse hoy."
+                        "futureDate": "La fecha no es válida",
+                        "todayDate": "La fecha no es válida"
                     }
                 },
                 {
