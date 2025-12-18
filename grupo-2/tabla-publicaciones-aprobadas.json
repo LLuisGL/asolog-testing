@@ -1,8 +1,0 @@
-{
-  "columnas": [
-    { "label": "Título" },
-    { "label": "Fecha de creación" },
-    { "label": "Estado" },
-    { "label": "Acciones" }
-  ]
-}  
