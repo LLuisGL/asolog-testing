@@ -2,7 +2,7 @@
   "planes": [
     {
       "titulo": "Junior",
-      "precio": "$0",
+      "precio": "$100",
       "vigencia": "1 año",
       "ventajas": [
         "Emisión de certificado digital oficial que acredita la membresía activa.",
@@ -26,7 +26,7 @@
     },
     {
       "titulo": "Profesional",
-      "precio": "$180",
+      "precio": "$200",
       "vigencia": "1 año",
       "ventajas": [
         "Emisión de certificado digital oficial que acredita la membresía activa.",
