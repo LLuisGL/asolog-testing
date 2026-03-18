@@ -1,7 +1,7 @@
 {
   "planes": [
     {
-      "titulo": "Junior",
+      "titulo": "Rookie",
       "precio": "$100",
       "vigencia": "1 año",
       "ventajas": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "titulo": "Senior",
+      "titulo": "Executive",
       "precio": "$300",
       "vigencia": "1 año",
       "ventajas": [
