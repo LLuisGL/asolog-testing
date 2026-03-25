@@ -16,10 +16,6 @@
         {
             "numero": 4,
             "nombre": "Facturación"
-        },
-        {
-            "numero": 5,
-            "nombre": "Referencia"
         }
     ],
     "titulo": "Información del Negocio",
