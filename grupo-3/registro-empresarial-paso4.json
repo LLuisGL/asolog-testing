@@ -63,14 +63,6 @@
                         "required": "El campo Teléfono Fijo es obligatorio.",
                         "phone": "Teléfono inválido (solo números, 7 a 10 dígitos)"
                     }
-                },
-                {
-                    "label": "Centro para Facturación",
-                    "type": "text",
-                    "name": "centro_facturacion",
-                    "errores": {
-                        "required": "El campo Centro para Facturación es obligatorio."
-                    }
                 }
             ]
         }
